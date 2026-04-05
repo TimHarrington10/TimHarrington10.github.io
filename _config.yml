@@ -1,1 +1,22 @@
-_config.yml
+title: Your Name | Portfolio
+description: Personal website and engineering portfolio
+baseurl: "" 
+url: "https://yourusername.github.io"
+
+theme: minima
+
+# Optional settings
+author:
+  name: Your Name
+  email: youremail@example.com
+
+social_links:
+  github: your-github-username
+  linkedin: your-linkedin-username
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from build
+exclude:
+  - README.md
