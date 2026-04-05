@@ -23,9 +23,9 @@ Worked on the design and testing of an electric racing powerboat, including driv
 Gained hands-on experience with manufacturing processes, engineering support, and technical problem solving in an industrial setting.
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- [GitHub](https://github.com/YOUR-USERNAME)
+- [LinkedIn](www.linkedin.com/in/tim-harrington10)
+- [Handshake](https://gwu.joinhandshake.com/profiles/an7dkm)
 - Email: [t.harrington@gwmail.gwu.edu](mailto:t.harrington@gwmail.gwu.edu)
 
 ## More
-See my [Projects](./projects.html) page for more details.
+See my [Projects and Certifications](./projects.html) page for more details.
