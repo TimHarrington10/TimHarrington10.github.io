@@ -1,22 +1,7 @@
-title: Your Name | Portfolio
-description: Personal website and engineering portfolio
-baseurl: "" 
-url: "https://yourusername.github.io"
-
+title: Tim Harrington
+email: t.harrington@gwmail.gwu.edu
+description: Professional Website & Engineering Portfolio
+baseurl: ""
+url: "https://TimHarrington10.github.io"
 theme: minima
-
-# Optional settings
-author:
-  name: Your Name
-  email: youremail@example.com
-
-social_links:
-  github: your-github-username
-  linkedin: your-linkedin-username
-
-# Build settings
 markdown: kramdown
-
-# Exclude files from build
-exclude:
-  - README.md
