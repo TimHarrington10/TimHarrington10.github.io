@@ -11,8 +11,8 @@ My name is Tim Harrington and I am a freshman studying Mechanical Engineering at
 
 ## Explore My Work
 - [Electric Yacht Club](./yacht.html)
-- [SOLIDWORKS](./solidworks.html)
 - [Theta Tau](./thetatau.html)
+- [SOLIDWORKS](./solidworks.html)
 
 ## Contact
 - [LinkedIn](linkedin.com/in/tim-harrington10)
