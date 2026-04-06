@@ -14,23 +14,18 @@ Electric Yacht Club (EYacht) at George Washington University, started in Decembe
 
 ## Key Contributions - CAD/Manufacturing Team Member
 - Developed a detailed CAD model of the ME1616 motor using technical drawings and precise visual measurements
-<p>
-  <img src="assets/images/Motor.png" width="250">
-<p>
 - Designed and created a CAD model of the complete drivetrain system, including the shaft, bearings, gears, and thrust components
-<p>
-  <img src="assets/images/Drivetrain.png" width="250">
-<p>
 - Fabricated multiple components in the machine shop, including transom mounts, side arms, motor mount panels, connecting blocks, and steering support cylinders
+- Reverse engineered the boat’s front cowl, creating an accurate 3D SolidWorks model for 3D printing
+- Conducted structural analysis on the motor mount in Onshape to test strength and performance under load
 
 <p>
   <img src="assets/images/IMG_6673.jpg" width="150">  
   <img src="assets/images/IMG_6697.jpg" width="150">  
   <img src="assets/images/IMG_6672_2.jpg" width="150">
+  <img src="assets/images/Motor.png" width="250">
+  <img src="assets/images/Drivetrain.png" width="250">
 </p>
-
-- Reverse engineered the boat’s front cowl, creating an accurate 3D SolidWorks model for 3D printing
-- Conducted structural analysis on the motor mount in Onshape to test strength and performance under load
 
 ## Skills I've Learned
 - Drivetrain Design
