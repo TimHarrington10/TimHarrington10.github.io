@@ -15,6 +15,6 @@ My name is Tim Harrington and I am a freshman studying Mechanical Engineering at
 - [Theta Tau](./thetatau.html)
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/tim-harrington10)
+- [LinkedIn](linkedin.com/in/tim-harrington10)
 - [Handshake](https://gwu.joinhandshake.com/profiles/an7dkm)
 - Email: [t.harrington@gwmail.gwu.edu](mailto:t.harrington@gwmail.gwu.edu)
