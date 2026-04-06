@@ -17,7 +17,7 @@ Electric Yacht Club (EYacht) at George Washington University, started in Decembe
 <img src="./assets/images/IMG_6736 (1).jpg" width="200">
 
 - Designed and created a CAD model of the complete drivetrain system, including the shaft, bearings, gears, and thrust components
-<img src="./assets/images/IMG_6736 (1).jpg" width="200">
+<img src="assets/images/Drivetrain.png" width="200">
 
 - Fabricated multiple components in the machine shop, including transom mounts, side arms, motor mount panels, connecting blocks, and steering support cylinders
 
