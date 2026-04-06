@@ -21,7 +21,7 @@ Electric Yacht Club (EYacht) at George Washington University, started in Decembe
 
 - Fabricated multiple components in the machine shop, including transom mounts, side arms, motor mount panels, connecting blocks, and steering support cylinders
 
-- <p>
+<p>
   <img src="assets/images/IMG_6673.jpg" width="150">  
   <img src="assets/images/IMG_6697.jpg" width="150">  
   <img src="assets/images/IMG_6672_2.jpg" width="150">
