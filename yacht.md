@@ -5,11 +5,11 @@ title: Electric Yacht
 
 # Electric Yacht Club
 
-<p align="center">
-  <img src="./assets/images/IMG_6736 (1).jpg" width="500">
-
 ## Overview
 Electric Yacht Club (EYacht) at George Washington University, started in December 2025, is a student-led engineering organization focused on designing and building competitive electric-powered boats while advancing sustainable marine technology. In its first active semester, EYacht has begun work on its inaugural boat, the US-0, giving members practical experience in design, manufacturing, testing, and interdisciplinary engineering collaboration. This April, our team will compete in a national racing competition hosted by The American Society of Naval Engineers in Portsmouth, Virginia and is sponsored by the U.S. Navy’s Office of Naval Research.
+
+<p align="center">
+  <img src="./assets/images/IMG_6736 (1).jpg" width="500">
 
 ## Key Contributions
 ### CAD/Manufacturing Team Member
