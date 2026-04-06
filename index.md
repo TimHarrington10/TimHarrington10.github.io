@@ -17,6 +17,6 @@ My name is Tim Harrington and I am a freshman studying Mechanical Engineering at
 - [SOLIDWORKS](./solidworks.html)
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/tim-harrington10)
+- [LinkedIn](https://www.linkedin.com/in/tim-harrington10)
 - [Handshake](https://gwu.joinhandshake.com/profiles/an7dkm)
 - Email: [t.harrington@gwmail.gwu.edu](mailto:t.harrington@gwmail.gwu.edu)
