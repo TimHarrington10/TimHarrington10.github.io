@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOLIDWORKS
+title: SOLIDWORKS <img src="./assets/images/CertificateCSWA.pdf" width="100">
 ---
 
 # SOLIDWORKS Expierience 
