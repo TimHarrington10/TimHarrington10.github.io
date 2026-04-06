@@ -5,6 +5,7 @@ title: Electric Yacht
 
 # Electric Yacht Club
 
+<p align="center">
 <img src="./assets/images/IMG_6736 (1).jpg" width="500">
 
 ## Overview
