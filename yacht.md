@@ -19,6 +19,11 @@ Electric Yacht Club (EYacht) at George Washington University, started in Decembe
 - Conducted structural analysis on the motor mount in Onshape to test strength and performance under load
 
 ## Skills I've Learned
-- Real-world engineering design process
+- Drivetrain Design
+- Reverse Engineering
+- Structural Analysis (FEA)
+- Mechanical Systems Integration
+- Machining & Fabrication
+- Tolerance & Fit Awareness
+- Problem Solving Under Constraints
 - System integration and troubleshooting
-- Working under performance constraints
