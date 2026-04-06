@@ -5,3 +5,8 @@ baseurl: ""
 url: "https://TimHarrington10.github.io"
 theme: minima
 markdown: kramdown
+header_pages:
+  - index.md
+  - yacht.md
+  - thetatau.md
+  - solidworks.md
