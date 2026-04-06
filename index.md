@@ -15,17 +15,12 @@ My name is Tim Harrington and I am a freshman studying Mechanical Engineering at
 - Photoshop and Illustrator
 - Basic Coding
 
-## Featured Experience
-### Electric Powerboat Project
-Worked on the design and testing of an electric racing powerboat, including drivetrain layout, structural analysis, and component selection.
-
-### Manufacturing Engineering Internship
-Gained hands-on experience with manufacturing processes, engineering support, and technical problem solving in an industrial setting.
+## Explore My Work
+- [Electric Yacht Club](./yacht.html)
+- [SOLIDWORKS](./solidworks.html)
+- [Theta Tau](./thetatau.html)
 
 ## Contact
 - [LinkedIn](www.linkedin.com/in/tim-harrington10)
 - [Handshake](https://gwu.joinhandshake.com/profiles/an7dkm)
 - Email: [t.harrington@gwmail.gwu.edu](mailto:t.harrington@gwmail.gwu.edu)
-
-## More
-See my [Projects and Certifications](./projects.html) page for more details.
