@@ -2,7 +2,7 @@
 layout: default
 title: Theta Tau
 ---
-# Theta Tau <img src="./assets/images/ThetaTau.png" width="100">
+# Theta Tau <img src="./assets/images/ThetaTau.png" width="20">
 
 ## Overview
 Theta Tau is a professional engineering fraternity founded in 1904 dedicated to fostering leadership, professional development, and a strong network among engineering students. With over 5,000 active members across more than 100 college campuses, Theta Tau emphasizes brotherhood, academic excellence, and preparing members for successful careers in engineering and related fields. The George Washington University chapter has over 80 active members and provides them with opportunities for professional growth, technical development, and community involvement within GW’s engineering community.
