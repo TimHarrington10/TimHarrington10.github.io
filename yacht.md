@@ -3,7 +3,8 @@ layout: default
 title: Electric Yacht
 ---
 
-
+<p align="center">
+<img src="assets/images/download.png" width="500">
 
 # Electric Yacht Club
 
