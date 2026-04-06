@@ -19,6 +19,10 @@ Theta Tau is a professional engineering fraternity founded in 1904 dedicated to 
 <img src="./assets/images/image_0.PNG" width="200"> <img src="./assets/images/image_0 3.PNG" width="200"> <img src="./assets/images/image_0 4.PNG" width="200">
 
 ## Skills Developed
-- Leadership
-- Teamwork
+- Resume building
+- Networking
 - Professional communication
+- Project management
+- Soldering
+- Time management
+
