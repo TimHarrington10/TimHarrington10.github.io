@@ -10,10 +10,11 @@ Theta Tau is a professional engineering fraternity founded in 1904 dedicated to 
 <img src="./assets/images/IMG_6039.JPG" width="550">
 
 ## Involvement
-- Serve as Merchandise Chair for the GW chapter
+- Currently serve as Merchandise Chair for the GW chapter
+- Recently designed a hoodie for the chapter and just placed an order for 40 with a local vendor 
 - Apart of the Professional Development Committee
-- Collaborate with peers on engineering-related activities
-- Build connections within the engineering community
+- Was able to aquire free SOLIDWORKS CSWA credits for members interested in taking the exam
+- Helped to set up an Alumni career panel for members across various majors
 
 <img src="./assets/images/image_0.PNG" width="200"> <img src="./assets/images/image_0 3.PNG" width="200"> <img src="./assets/images/image_0 4.PNG" width="200">
 
