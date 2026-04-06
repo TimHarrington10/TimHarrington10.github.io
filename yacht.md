@@ -10,16 +10,17 @@ title: Electric Yacht
 <p>
 
 ## Overview
-
 Electric Yacht Club (EYacht) at George Washington University, started in December 2025, is a student-led engineering organization focused on designing and building competitive electric-powered boats while advancing sustainable marine technology. In its first active semester, EYacht has begun work on its inaugural boat, the US-0, giving members practical experience in design, manufacturing, testing, and interdisciplinary engineering collaboration. This April, our team will compete in a national racing competition hosted by The American Society of Naval Engineers in Portsmouth, Virginia and is sponsored by the U.S. Navy’s Office of Naval Research.
 
 ## Key Contributions - CAD/Manufacturing Team Member
 - Developed a detailed CAD model of the ME1616 motor using technical drawings and precise visual measurements
-<img src="assets/images/Motor.png" width="250">
-
+<p>
+  <img src="assets/images/Motor.png" width="250">
+<p>
 - Designed and created a CAD model of the complete drivetrain system, including the shaft, bearings, gears, and thrust components
-<img src="assets/images/Drivetrain.png" width="250">
-
+<p>
+  <img src="assets/images/Drivetrain.png" width="250">
+<p>
 - Fabricated multiple components in the machine shop, including transom mounts, side arms, motor mount panels, connecting blocks, and steering support cylinders
 
 <p>
