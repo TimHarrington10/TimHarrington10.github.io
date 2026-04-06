@@ -19,13 +19,8 @@ Electric Yacht Club (EYacht) at George Washington University, started in Decembe
 - Reverse engineered the boat’s front cowl, creating an accurate 3D SolidWorks model for 3D printing
 - Conducted structural analysis on the motor mount in Onshape to test strength and performance under load
 
-<p>
-  <img src="assets/images/IMG_6673.jpg" width="150">  
-  <img src="assets/images/IMG_6697.jpg" width="150">  
-  <img src="assets/images/IMG_6672_2.jpg" width="150">
-  <img src="assets/images/Motor.png" width="250">
-  <img src="assets/images/Drivetrain.png" width="250">
-</p>
+<img src="assets/images/IMG_6673.jpg" width="150"> <img src="assets/images/IMG_6697.jpg" width="150"> <img src="assets/images/IMG_6672_2.jpg" width="150">
+<img src="assets/images/Motor.png" width="250"> <img src="assets/images/Drivetrain.png" width="250">
 
 ## Skills I've Learned
 - Drivetrain Design
