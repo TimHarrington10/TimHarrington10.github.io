@@ -20,6 +20,7 @@ Electric Yacht Club (EYacht) at George Washington University, started in Decembe
 - Conducted structural analysis on the motor mount in Onshape to test strength and performance under load
 
 <img src="assets/images/IMG_6673.jpg" width="150"> <img src="assets/images/IMG_6697.jpg" width="150"> <img src="assets/images/IMG_6672_2.jpg" width="150">
+
 <img src="assets/images/Motor.png" width="250"> <img src="assets/images/Drivetrain.png" width="250">
 
 ## Skills I've Learned
